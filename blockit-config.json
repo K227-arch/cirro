@@ -1,0 +1,16 @@
+{
+    "footerHook": {
+        "useLogo": true,
+        "logoIndex": 0,
+        "showClass": "d-block",
+        "hideClass": "d-none",
+        "logoClass": "footer-logo",
+        "copyrightClass": "copyright-text"
+    },
+    "jsVendors": [
+        "./node_modules/bigger-picture/dist/bigger-picture.min.js",
+        "./node_modules/bootstrap/dist/js/bootstrap.bundle.min.js",
+        "./node_modules/share-buttons/dist/share-buttons.js",
+        "./node_modules/shufflejs/dist/shuffle.min.js"
+    ]
+}

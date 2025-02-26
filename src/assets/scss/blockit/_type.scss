@@ -1,0 +1,14 @@
+// Type
+.blockquote {
+    font-family: Georgia, serif;
+    font-style: italic;
+    p:first-of-type::before {
+        content: "“";
+        font-family: $headings-font-family;
+        font-size: 5rem;
+        font-style: normal;
+        color: rgba(0, 0, 0, 0.06);
+        position: absolute;
+        margin: -25px 0 0 -15px;
+    }
+}

@@ -1,0 +1,23 @@
+// Button
+.btn-link {
+    font-size: 0.875rem;
+    font-weight: $font-weight-bold;
+    color: #0c385f;
+    text-decoration: none;
+    border: 0;
+    border-bottom: 4px solid #a6c0d6;
+    padding: 0 0 3px 0;
+    i {
+        margin-right: 5px;
+    }
+    &:hover,
+    &:focus {
+        color: #0c385f;
+        border-color: $warning;
+        transition: all ease 400ms;
+    }
+}
+
+.btn-warning {
+    color: #0c385f;
+}

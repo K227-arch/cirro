@@ -1,0 +1,28 @@
+// Pagination
+.page-item {
+    &:first-child .page-link {
+        min-width: 38px;
+    }
+    &:last-child .page-link {
+        min-width: 38px;
+    }
+    &.active .page-link {
+        min-width: 38px;
+        background-color: $info;
+        border-color: $info;
+        &:hover {
+            color: $white;
+        }
+    }
+}
+
+.page-link {
+    min-width: 36px;
+    text-align: center;
+    margin: 0 .7rem;
+    &:hover {
+        color: $info;
+        background-color: $white;
+        border-color: $info;
+    }
+}

@@ -1,0 +1,117 @@
+{
+  "slideshow": [
+    {
+      "slides": [
+        {
+          "id": "KwEZQs",
+          "text": "<div class=\"carousel-item\">\n    <div class=\"carousel-caption d-flex align-items-center\">\n        <div class=\"container\">\n            <div class=\"row gx-md-5 align-items-md-center\">\n                <div class=\"col-md-8 col-xl-6 order-first\">\n                    <h1 class=\"fw-bold display-5\">Access a wealth of trading opportunities</h1>\n                    <p class=\"lead mt-3 mb-4 d-none d-xl-block\">Trusting in the security of the Global leader in broker, more than 3 million products are waiting for you.</p>\n                    <a href=\"#\" class=\"btn btn-warning\">Start trading<i class=\"fas fa-bolt ms-1\"></i></a>\n                    <a href=\"#\" class=\"btn btn-link ms-3 d-none d-xl-inline\"><i class=\"fas fa-arrow-right\"></i>Try demo account</a>\n                </div>\n                <div class=\"col-md-4 col-xl-6 order-last\">\n                    <div class=\"in-carousel-image\">\n                        <img src=\"img/in-cirro-slide-1.jpg\" alt=\"slide\" width=\"856\" height=\"570\" />\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</div>"
+        },
+        {
+          "id": "LoToY7",
+          "text": "<div class=\"carousel-item\">\n    <div class=\"carousel-caption d-flex align-items-center\">\n        <div class=\"container\">\n            <div class=\"row gx-md-5 align-items-md-center\">\n                <div class=\"col-md-8 col-xl-6 order-first\">\n                    <h1 class=\"fw-bold display-5\">Physical stocks with zero commission</h1>\n                    <p class=\"lead mt-3 mb-4 d-none d-xl-block\">Trusting in the security of the Global leader in broker, more than 3 million products are waiting for you.</p>\n                    <a href=\"#\" class=\"btn btn-warning\">Start trading<i class=\"fas fa-bolt ms-1\"></i></a>\n                    <a href=\"#\" class=\"btn btn-link ms-3 d-none d-xl-inline\"><i class=\"fas fa-arrow-right\"></i>Try demo account</a>\n                </div>\n                <div class=\"col-md-4 col-xl-6 order-last\">\n                    <div class=\"in-carousel-image\">\n                        <img src=\"img/in-cirro-slide-2.jpg\" alt=\"slide\" width=\"856\" height=\"570\" />\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</div>"
+        },
+        {
+          "id": "UDjuBG",
+          "text": "<div class=\"carousel-item\">\n    <div class=\"carousel-caption d-flex align-items-center\">\n        <div class=\"container\">\n            <div class=\"row gx-md-5 align-items-md-center\">\n                <div class=\"col-md-8 col-xl-6 order-first\">\n                    <h1 class=\"fw-bold display-5\">Trading environment with the best pricing</h1>\n                    <p class=\"lead mt-3 mb-4 d-none d-xl-block\">Trusting in the security of the Global leader in broker, more than 3 million products are waiting for you.</p>\n                    <a href=\"#\" class=\"btn btn-warning\">Start trading<i class=\"fas fa-bolt ms-1\"></i></a>\n                    <a href=\"#\" class=\"btn btn-link ms-3 d-none d-xl-inline\"><i class=\"fas fa-arrow-right\"></i>Try demo account</a>\n                </div>\n                <div class=\"col-md-4 col-xl-6 order-last\">\n                    <div class=\"in-carousel-image\">\n                        <img src=\"img/in-cirro-slide-3.jpg\" alt=\"slide\" width=\"856\" height=\"570\" />\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</div>"
+        }
+      ]
+    },
+    {
+      "slides": [
+        {
+          "id": "4VlDfU",
+          "text": "<div class=\"carousel-item\">\n    <div class=\"carousel-caption d-flex align-items-center\">\n        <div class=\"container\">\n            <div class=\"row gx-md-5 align-items-md-center\">\n                <div class=\"col-md-8 col-xl-6 order-first\">\n                    <h1 class=\"fw-bold display-5\">Physical stocks with zero commission</h1>\n                    <p class=\"lead mt-3 mb-4 d-none d-xl-block\">Trusting in the security of the Global leader in broker, more than 3 million products are waiting for you.</p>\n                    <a href=\"#\" class=\"btn btn-warning\">Start trading<i class=\"fas fa-bolt ms-1\"></i></a>\n                    <a href=\"#\" class=\"btn btn-link ms-3 d-none d-xl-inline\"><i class=\"fas fa-arrow-right\"></i>Try demo account</a>\n                </div>\n                <div class=\"col-md-4 col-xl-6 order-last\">\n                    <div class=\"in-carousel-image\">\n                        <img src=\"img/in-cirro-slide-2.jpg\" alt=\"slide\" width=\"856\" height=\"570\" />\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</div>"
+        },
+        {
+          "id": "9JdU1t",
+          "text": "<div class=\"carousel-item\">\r\n    <div class=\"carousel-caption d-flex align-items-center\">\r\n        <div class=\"container\">\r\n            <div class=\"row gx-md-5 align-items-md-center\">\r\n                <div class=\"col-md-8 col-xl-6 order-first\">\r\n                    <h1 class=\"fw-bold display-5\">Access a wealth of trading opportunities</h1>\r\n                    <p class=\"lead mt-3 mb-4 d-none d-xl-block\">Trusting in the security of the Global leader in broker, more than 3 million products are waiting for you.</p>\r\n                    <a href=\"#\" class=\"btn btn-warning\">Start trading<i class=\"fas fa-bolt ms-1\"></i></a>\r\n                    <a href=\"#\" class=\"btn btn-link ms-3 d-none d-xl-inline\"><i class=\"fas fa-arrow-right\"></i>Try demo account</a>\r\n                </div>\r\n                <div class=\"col-md-4 col-xl-6 order-last\">\r\n                    <div class=\"in-carousel-image\">\r\n                        <img src=\"img/in-cirro-slide-1.jpg\" alt=\"slide\" width=\"856\" height=\"570\" />\r\n                    </div>\r\n                </div>\r\n            </div>\r\n        </div>\r\n    </div>\r\n</div>"
+        },
+        {
+          "id": "MJoisp",
+          "text": "<div class=\"carousel-item\">\n    <div class=\"carousel-caption d-flex align-items-center\">\n        <div class=\"container\">\n            <div class=\"row gx-md-5 align-items-md-center\">\n                <div class=\"col-md-8 col-xl-6 order-first\">\n                    <h1 class=\"fw-bold display-5\">Trading environment with the best pricing</h1>\n                    <p class=\"lead mt-3 mb-4 d-none d-xl-block\">Trusting in the security of the Global leader in broker, more than 3 million products are waiting for you.</p>\n                    <a href=\"#\" class=\"btn btn-warning\">Start trading<i class=\"fas fa-bolt ms-1\"></i></a>\n                    <a href=\"#\" class=\"btn btn-link ms-3 d-none d-xl-inline\"><i class=\"fas fa-arrow-right\"></i>Try demo account</a>\n                </div>\n                <div class=\"col-md-4 col-xl-6 order-last\">\n                    <div class=\"in-carousel-image\">\n                        <img src=\"img/in-cirro-slide-3.jpg\" alt=\"slide\" width=\"856\" height=\"570\" />\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</div>"
+        }
+      ]
+    },
+    {
+      "slides": [
+        {
+          "id": "GpOwbh",
+          "text": "<div class=\"carousel-item\">\n    <div class=\"carousel-caption d-flex align-items-center\">\n        <div class=\"container\">\n            <div class=\"row gx-md-5 align-items-md-center\">\n                <div class=\"col-md-8 col-xl-6 order-first\">\n                    <h1 class=\"fw-bold display-5\">Trading environment with the best pricing</h1>\n                    <p class=\"lead mt-3 mb-4 d-none d-xl-block\">Trusting in the security of the Global leader in broker, more than 3 million products are waiting for you.</p>\n                    <a href=\"#\" class=\"btn btn-warning\">Start trading<i class=\"fas fa-bolt ms-1\"></i></a>\n                    <a href=\"#\" class=\"btn btn-link ms-3 d-none d-xl-inline\"><i class=\"fas fa-arrow-right\"></i>Try demo account</a>\n                </div>\n                <div class=\"col-md-4 col-xl-6 order-last\">\n                    <div class=\"in-carousel-image\">\n                        <img src=\"img/in-cirro-slide-3.jpg\" alt=\"slide\" width=\"856\" height=\"570\" />\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</div>"
+        },
+        {
+          "id": "9kWZUP",
+          "text": "<div class=\"carousel-item\">\n    <div class=\"carousel-caption d-flex align-items-center\">\n        <div class=\"container\">\n            <div class=\"row gx-md-5 align-items-md-center\">\n                <div class=\"col-md-8 col-xl-6 order-first\">\n                    <h1 class=\"fw-bold display-5\">Physical stocks with zero commission</h1>\n                    <p class=\"lead mt-3 mb-4 d-none d-xl-block\">Trusting in the security of the Global leader in broker, more than 3 million products are waiting for you.</p>\n                    <a href=\"#\" class=\"btn btn-warning\">Start trading<i class=\"fas fa-bolt ms-1\"></i></a>\n                    <a href=\"#\" class=\"btn btn-link ms-3 d-none d-xl-inline\"><i class=\"fas fa-arrow-right\"></i>Try demo account</a>\n                </div>\n                <div class=\"col-md-4 col-xl-6 order-last\">\n                    <div class=\"in-carousel-image\">\n                        <img src=\"img/in-cirro-slide-2.jpg\" alt=\"slide\" width=\"856\" height=\"570\" />\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</div>"
+        },
+        {
+          "id": "us1udK",
+          "text": "<div class=\"carousel-item\">\r\n    <div class=\"carousel-caption d-flex align-items-center\">\r\n        <div class=\"container\">\r\n            <div class=\"row gx-md-5 align-items-md-center\">\r\n                <div class=\"col-md-8 col-xl-6 order-first\">\r\n                    <h1 class=\"fw-bold display-5\">Access a wealth of trading opportunities</h1>\r\n                    <p class=\"lead mt-3 mb-4 d-none d-xl-block\">Trusting in the security of the Global leader in broker, more than 3 million products are waiting for you.</p>\r\n                    <a href=\"#\" class=\"btn btn-warning\">Start trading<i class=\"fas fa-bolt ms-1\"></i></a>\r\n                    <a href=\"#\" class=\"btn btn-link ms-3 d-none d-xl-inline\"><i class=\"fas fa-arrow-right\"></i>Try demo account</a>\r\n                </div>\r\n                <div class=\"col-md-4 col-xl-6 order-last\">\r\n                    <div class=\"in-carousel-image\">\r\n                        <img src=\"img/in-cirro-slide-1.jpg\" alt=\"slide\" width=\"856\" height=\"570\" />\r\n                    </div>\r\n                </div>\r\n            </div>\r\n        </div>\r\n    </div>\r\n</div>"
+        }
+      ]
+    },
+    {
+      "slides": []
+    }
+  ],
+  "header": {
+    "siteLogo": {
+      "src": "img/user/header-logo-LxR0VE.svg",
+      "width": "122",
+      "height": "36"
+    },
+    "signup": {
+      "title": "Request a demo",
+      "url": "#",
+      "external": false,
+      "display": true
+    },
+    "signin": {
+      "title": "Login",
+      "url": "signin.html",
+      "external": false,
+      "display": true
+    }
+  },
+  "footer": {
+    "copyrightText": "©2022 Cirro Invest Ltd. All Rights Reserved.",
+    "siteLogo": {
+      "enabled": true,
+      "logo": {
+        "src": "img/user/footer-logo-5vqlhb.svg",
+        "width": "122",
+        "height": "36"
+      }
+    },
+    "useLogo": true
+  },
+  "contactMap": {
+    "email": "info@cirro-invest.id",
+    "mapIframe": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10600.5248164368!2d144.95966577016594!3d-37.81707816290683!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65d4c2b349649%3A0xb6899234e561db11!2sEnvato!5e0!3m2!1sen!2sid!4v1645280096951!5m2!1sen!2sid\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>",
+    "mapSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10600.5248164368!2d144.95966577016594!3d-37.81707816290683!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65d4c2b349649%3A0xb6899234e561db11!2sEnvato!5e0!3m2!1sen!2sid!4v1645280096951!5m2!1sen!2sid"
+  },
+  "socialMedia": [
+    {
+      "facebook": "https://www.facebook.com/indonez"
+    },
+    {
+      "twitter": "https://twitter.com/indonez_tw"
+    },
+    {
+      "instagram": ""
+    },
+    {
+      "linkedin": "#some-link"
+    },
+    {
+      "behance": ""
+    },
+    {
+      "whatsapp": ""
+    },
+    {
+      "telegram": ""
+    },
+    {
+      "youtube": ""
+    }
+  ]
+}

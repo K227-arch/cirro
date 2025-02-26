@@ -1,0 +1,20 @@
+<!-- javascript -->
+<script src="{{root}}js/vendors/bootstrap.bundle.min.js"></script>
+{{#ifpage 'index' 'homepage3'}}
+<script src="{{root}}js/vendors/tradingview-widget.min.js"></script>
+{{/ifpage}}
+{{#ifpage 'homepage3'}}
+<script src="{{root}}js/vendors/vanilla-marquee.min.js"></script>
+{{/ifpage}}
+{{#ifpage 'homepage4'}}
+<script src="{{root}}js/vendors/bigger-picture.min.js"></script>
+{{/ifpage}}
+{{#ifpage 'careers'}}
+<script src="{{root}}js/vendors/bigger-picture.min.js"></script>
+<script src="{{root}}js/vendors/shuffle.min.js"></script>
+{{/ifpage}}
+{{#if asSingle}}
+<script src="{{root}}js/vendors/share-buttons.min.js"></script>
+{{/if}}
+<script src="{{root}}js/utilities.min.js"></script>
+<script src="{{root}}js/config-theme.js"></script>

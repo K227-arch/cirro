@@ -1,0 +1,26 @@
+// Navbar
+.navbar {
+    height: 80px;
+    background: #fff;
+    border-bottom: 1px solid #e1eaf1;
+    box-shadow: 1px 5px 15px 1px rgba(0,0,0,0.05);
+    > .container {
+        padding: 0 1.2rem;
+    }
+    .navbar-brand {
+        margin-right: 80px;
+    }
+}
+
+.navbar-nav {
+    .nav-link {
+        padding-top: 1.8rem;
+        padding-bottom: 1.8rem;
+    }
+    .dropdown-large-menu {
+        width: 420px;
+        .child-menu-text {
+            padding-top: .3rem;
+        }
+    }
+}

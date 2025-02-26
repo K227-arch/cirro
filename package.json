@@ -1,0 +1,24 @@
+{
+  "name": "cirro",
+  "title": "Cirro",
+  "version": "1.1.2",
+  "description": "Forex and Finance HTML Template",
+  "private": true,
+  "scripts": {
+    "build": "node ./node_modules/blockit-builder/blockit.js --build",
+    "blockit": "node ./node_modules/blockit-builder/blockit.js"
+  },
+  "author": "mudza09",
+  "license": "MIT",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "6.0.0",
+    "bigger-picture": "0.2.1",
+    "bootstrap": "5.2.0",
+    "dotenv": "^16.4.7",
+    "share-buttons": "1.9.0",
+    "shufflejs": "6.1.0"
+  },
+  "devDependencies": {
+    "blockit-builder": "3.1.1"
+  }
+}
